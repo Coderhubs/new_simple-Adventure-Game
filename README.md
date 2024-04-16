@@ -1,1 +1,1 @@
-# new_simple-Adventure-Game
+# new_simple-word-counter
